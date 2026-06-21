@@ -12,7 +12,7 @@
 
 🔍 Creator of Glexo – Django Mini Search Engine
 
-🌱 Currently learning Django REST Framework, Machine Learning, and Backend Development
+🌱 Currently learning  Machine Learning, and Backend Development
 
 🎯 Looking for Internship Opportunities
 

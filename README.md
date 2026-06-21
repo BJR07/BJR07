@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hey there 👋
 
-<!--
-**BJR07/BJR07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
 
-Here are some ideas to get you started:
+🤓 My name is Biswajit Rout
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧑‍🎓 B.Tech Computer Science Student
+
+💻 Python Full Stack Developer
+
+🚀 Building Backend Projects with Django
+
+🔍 Creator of Glexo – Django Mini Search Engine
+
+🌱 Currently learning Django REST Framework, Machine Learning, and Backend Development
+
+🎯 Looking for Internship Opportunities
+
+---
+
+## 🛠️ Languages and Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,mysql,html,css,bootstrap,git,github,vscode,c,java" />
+</p>
+
+---
+
+## 📊 My Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bjr07&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bjr07&layout=compact)
+
+---
+
+## 🚀 Featured Project
+
+### Glexo – Django Mini Search Engine
+
+🔹 Keyword-based document retrieval
+
+🔹 Inverted Index implementation
+
+🔹 Search result ranking
+
+🔹 User Authentication
+
+🔹 Search History Tracking
+
+---
+
+## 🔗 Connect With Me
+
+💼 LinkedIn: https://www.linkedin.com/in/bjr07/
+
+📧 Email: work.bjr07@gmail.com
+
+🌐 GitHub: https://github.com/bjr07
